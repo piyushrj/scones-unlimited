@@ -1,5 +1,5 @@
 # scones-unlimited
-Store code and results for the "Build ML Workflow For Scones Unlimited" project in the Udacity AWS MLE Nanodegree
+Stores code and results for the "Build ML Workflow For Scones Unlimited" project in the Udacity AWS MLE Nanodegree
 
 ## Deploy ML Workflow with AWS
 The project aims to deploy a functioning ML workflow for image classification using AWS. Specifically, the project involved -
